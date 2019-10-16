@@ -13,3 +13,16 @@ To run: python problem2.py
 #### Test file: test_problem2.py
 
 To run: pytest
+
+## PROBLEM 3
+Contributed By: Melissa Lin
+
+
+#### Solution file: problem2.py
+
+To run: python3 problem3.py
+
+
+#### Test file: test_problem2.py
+
+To run: python3 problem3tests.py 
