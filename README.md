@@ -23,6 +23,6 @@ Contributed By: Melissa Lin
 To run: python3 problem3.py
 
 
-#### Test file: test_problem2.py
+#### Test file: problem3test.py
 
 To run: python3 problem3tests.py 
