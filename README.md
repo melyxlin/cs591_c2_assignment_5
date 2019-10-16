@@ -18,7 +18,7 @@ To run: pytest
 Contributed By: Melissa Lin
 
 
-#### Solution file: problem2.py
+#### Solution file: problem3.py
 
 To run: python3 problem3.py
 
