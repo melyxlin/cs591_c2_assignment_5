@@ -1,5 +1,8 @@
 import unittest
-from main import *
+from problem3 import *
+
+#I am assuming that for the inputs and edge cases do not 
+# have any leading zeros and only contains inputs from 0-9
 
 class StringMultiplicationTDD(unittest.TestCase):
     def test_multiplystr(self):
@@ -16,5 +19,5 @@ class StringMultiplicationTDD(unittest.TestCase):
         self.assertEqual("2830869077153280552556547081187254342445169156730", multiplystr("1020303004875647366210", "2774537626200857473632627613"))
         self.assertEqual("81129638414606663681390495662081",multiplystr("9007199254740991", "9007199254740991"))
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
     unittest.main()
