@@ -21,7 +21,7 @@ def i2s(i):
 
 def multiplystr(num1, num2):
     """
-        takes 
+        takes a string representation of 2 integers, num1 and num2, and returns a string presentation of the product of num1 and num2
     """
     if num1 == "0" or num2 == "0":
         return "0"
