@@ -51,5 +51,4 @@ def main():
     print("Product is:", product)
 
 if __name__ == '__main__': 
-    print(i2s(0))
     main()
