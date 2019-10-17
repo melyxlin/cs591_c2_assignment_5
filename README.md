@@ -26,3 +26,11 @@ To run: python3 problem3.py
 #### Test file: problem3test.py
 
 To run: pytest
+
+### Problem 4
+Contributed by: Lisa Vu
+
+#### Solution folder: Problem4
+To run: `java Problem4 [array input, separated by spaces]`
+Test location: test/Tests
+ 
