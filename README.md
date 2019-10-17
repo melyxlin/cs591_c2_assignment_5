@@ -25,4 +25,4 @@ To run: python3 problem3.py
 
 #### Test file: problem3test.py
 
-To run: python3 problem3tests.py 
+To run: pytest
