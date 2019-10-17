@@ -20,7 +20,7 @@ Contributed By: Melissa Lin
 
 #### Solution file: problem3.py
 
-To run: python3 problem3.py
+To run: python3 problem3/problem3.py
 
 
 #### Test file: problem3test.py
