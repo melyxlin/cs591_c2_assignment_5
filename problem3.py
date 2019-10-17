@@ -31,3 +31,11 @@ def multiplystr(num1, num2):
     return i2s(product)
 
 
+def main():
+    num1 = str(input("Enter a number: "))
+    num2 = str(input("Enter another number: "))
+    product = multiplystr(num1, num2)
+    print("Product is:", product)
+
+if __name__ == '__main__': 
+    main()
